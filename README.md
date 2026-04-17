@@ -8,7 +8,7 @@
 
 
 
-
+--------------+++++++-+++++++++++++++--+++-+----+++++++++++
 
 OF COURSE IT IS!
 This is a fork of mempalace
@@ -24,7 +24,7 @@ https://github.com/willWallace-RIT/Blltn
 
 but this appears to be a local version of what I envisioned so a fork was needed out of respect.
 
-
++++++++++++++++++++-------------------++++++++++++-------
 <div align="center">
 
 <img src="assets/mempalace_logo.png" alt="MemPalace" width="240">
