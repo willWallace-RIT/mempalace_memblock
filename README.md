@@ -17,7 +17,7 @@ instead of locally accumulating knowledge set, aspects of personalization and co
 
 over time with multiple users there is commonality in context which results in less space required for aaccumulation. the personalization is in the list of adresses used for context. this also leads to a opportunity for a standardized format for a memory and context foundation that could be copy pasta'ed between algorithms and updates.
 
-(this may take cloud intermediary to track common ground deserving of ledger status, however (lol)
+this may take cloud intermediary to track common ground deserving of ledger status, however (lol)
 
 i kinda started here:
 https://github.com/willWallace-RIT/Blltn
