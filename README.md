@@ -6,6 +6,21 @@
 > domain — including `mempalace.tech` — is an impostor and may distribute
 > malware. Details and timeline: [docs/HISTORY.md](docs/HISTORY.md).
 
+
+
+
+
+OF COURSE IT IS!
+This is a fork of mempalace
+
+instead of locally accumulating knowledge set, aspects of personalization and context are added to a blockchain ledger as pieces to a puzzle. over time with multiple users there is commanality in context which results in less space required for aaccumulation. the personalization is in the list of adresses used for context. this also leads to a opportunity for a standardized format for a memory and context foundation that could be copy pasta'ed between algorithms and updates.
+
+i kinda started here:
+https://github.com/willWallace-RIT/Blltn
+
+but this appears to be a local version of what I envisioned so a fork was needed out of respect.
+
+
 <div align="center">
 
 <img src="assets/mempalace_logo.png" alt="MemPalace" width="240">
